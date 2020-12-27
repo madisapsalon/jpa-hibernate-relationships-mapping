@@ -1,1 +1,1 @@
-# jpa-hibernate-relationships-mapping
+# JPA Hibernate relationships mapping examples
